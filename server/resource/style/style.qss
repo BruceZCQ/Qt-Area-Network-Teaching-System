@@ -1,0 +1,17 @@
+QGroupBox {
+    background-image: url(:/server/theme/groupboxbg);
+        border-radius: 5px;
+}
+QTabWidget{
+background-image: url(:/server/theme/groupboxbg);
+    border-radius: 5px;
+}
+
+QLabel {
+        color: gray;
+}
+
+QToolButton{
+    border-radius: 5px;
+    image: url(:/server/theme/buttonbg);
+}

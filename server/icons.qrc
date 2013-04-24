@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/server/theme">
+        <file alias="home">resource/theme/home.png</file>
+        <file alias="winicon">resource/theme/winicon.png</file>
+        <file alias="groupboxbg">resource/theme/groupboxbg.png</file>
+        <file alias="buttonbg">resource/theme/buttonbg.png</file>
+        <file alias="maintain">resource/theme/maintain.png</file>
+        <file alias="edit">resource/theme/edit.png</file>
+        <file alias="current">resource/theme/current.png</file>
+        <file alias="refresh">resource/theme/refresh.png</file>
+        <file alias="editclass">resource/theme/editclass.png</file>
+        <file alias="editstudent">resource/theme/editstudent.png</file>
+    </qresource>
+    <qresource prefix="/server/style">
+        <file alias="style">resource/style/style.qss</file>
+    </qresource>
+</RCC>

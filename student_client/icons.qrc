@@ -1,0 +1,102 @@
+<RCC>
+    <qresource prefix="/appFace">
+        <file alias="appIcon">icons/winicon.png</file>
+        <file alias="loginicon">icons/loginicon.png</file>
+        <file alias="systray">icons/tray.png</file>
+        <file alias="about">icons/about.png</file>
+        <file alias="away">icons/away.png</file>
+        <file alias="broastcast">icons/broastcast.png</file>
+        <file alias="busy">icons/busy.png</file>
+        <file alias="classbegin">icons/classbegin.png</file>
+        <file alias="courseware">icons/courseware.png</file>
+        <file alias="helpcenter">icons/helpcenter.png</file>
+        <file alias="leave">icons/leave.png</file>
+        <file alias="logout">icons/logout.png</file>
+        <file alias="offline">icons/offline.png</file>
+        <file alias="quit">icons/quit.png</file>
+        <file alias="sendquestion">icons/sendquestion.png</file>
+        <file alias="startserver">icons/startserver.png</file>
+        <file alias="viewquestion">icons/viewquestion.png</file>
+        <file alias="viewstudent">icons/viewstudent.png</file>
+        <file alias="link">icons/link.png</file>
+        <file alias="status">icons/status.png</file>
+        <file alias="questionmanage">icons/questionmanage.png</file>
+        <file alias="export">icons/export.png</file>
+        <file alias="import">icons/import.png</file>
+        <file alias="changeskin">icons/changeskin.png</file>
+        <file alias="weibroabcast">icons/weibroastcast.png</file>
+        <file alias="hidemenu">icons/hidemenu.png</file>
+        <file alias="messagebox">icons/messagebox.png</file>
+        <file alias="search">icons/search.png</file>
+        <file alias="functionbox">icons/functionbox.png</file>
+        <file alias="student">icons/student.png</file>
+        <file alias="coursewares">icons/coursewares.png</file>
+        <file alias="questions">icons/questions.png</file>
+        <file alias="style">icons/style.qss</file>
+        <file alias="refresh">icons/refresh.png</file>
+        <file alias="class">icons/class.png</file>
+        <file alias="broadcasts">icons/broastcasts.png</file>
+        <file alias="broadcastsmm">icons/broastcastsmm.png</file>
+        <file alias="courstwaremm">icons/coursewaresmm.png</file>
+        <file alias="questionmm">icons/questionmm.png</file>
+        <file alias="studentmm">icons/studentmm.png</file>
+        <file alias="classmm">icons/classmm.png</file>
+        <file alias="server">icons/server.png</file>
+        <file alias="startclass">icons/startclass.png</file>
+        <file alias="teacher_busy">icons/tearcher_busy.png</file>
+        <file alias="teacher_off">icons/tearcher_off.png</file>
+        <file alias="teacher_on">icons/tearcher_on.png</file>
+        <file alias="student_off">icons/student _off.png</file>
+        <file alias="student_on">icons/student _on.png</file>
+        <file alias="star">icons/star.png</file>
+        <file alias="changepassword">icons/changepassword.png</file>
+        <file alias="sysad">icons/sysad.gif</file>
+        <file alias="showfull">icons/showfull.png</file>
+        <file alias="close">icons/close.png</file>
+        <file alias="buttonbg">icons/buttonbg.png</file>
+        <file alias="coding">icons/coding.png</file>
+        <file alias="viewppt">icons/viewppt.png</file>
+        <file alias="quesitoncheck">icons/questioncheck.png</file>
+        <file alias="help">icons/help.png</file>
+        <file alias="clearcode">icons/clearcode.png</file>
+        <file alias="runcode">icons/runcode.png</file>
+        <file alias="searchcode">icons/searchdode.png</file>
+        <file alias="viewjavacode">icons/viewjavacode.png</file>
+        <file alias="mini">icons/mini.png</file>
+        <file alias="start">icons/start.png</file>
+        <file alias="stop">icons/stop.png</file>
+        <file alias="exit">icons/exit.png</file>
+        <file alias="openfile">icons/openfile.png</file>
+        <file alias="reload">icons/reload.png</file>
+        <file alias="loading">icons/loading.gif</file>
+        <file alias="newmessage">icons/newmessage.png</file>
+        <file alias="no">icons/no.gif</file>
+        <file alias="ok">icons/ok.gif</file>
+        <file alias="video">icons/video.png</file>
+        <file alias="dw">icons/dw.png</file>
+        <file alias="jdk">icons/jdk.png</file>
+        <file alias="myeclipse">icons/myeclipse.png</file>
+        <file alias="tomcat">icons/tomcat.png</file>
+        <file alias="addjar">icons/addjar.png</file>
+        <file alias="el">icons/el.png</file>
+        <file>icons/firstexam.png</file>
+        <file>icons/firstweb.png</file>
+        <file>icons/ide.png</file>
+        <file>icons/jbscope.png</file>
+        <file>icons/jdbcaccessdba.png</file>
+        <file>icons/jdbcaccessdbb.png</file>
+        <file>icons/jdbcaccessdbc.png</file>
+        <file>icons/jdbcaccessdbd.png</file>
+        <file>icons/jdbcaccesssqlserver.png</file>
+        <file>icons/jspconcealedobject.png</file>
+        <file>icons/jspelementb.png</file>
+        <file>icons/jspelementc.png</file>
+        <file>icons/servlet.png</file>
+        <file>icons/jspelementa.png</file>
+        <file alias="dashboardbg">icons/dashboard.jpg</file>
+        <file alias="viewVidebg">icons/viewvideobg.jpg</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file alias="style">style/style.qss</file>
+    </qresource>
+</RCC>

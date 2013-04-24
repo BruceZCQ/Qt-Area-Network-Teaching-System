@@ -1,0 +1,8 @@
+QToolButton{
+    border-radius: 5px;
+    image: url(:/appFace/buttonbg);
+}
+
+QWebView{
+     image: url(:/appFace/dashboardbg);
+}

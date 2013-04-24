@@ -1,0 +1,7 @@
+﻿QTabWidget::tab-bar {
+    alignment: center;
+}
+QPushButton{
+    border-radius: 5px;
+    image: url(:/appFace/buttonbg);
+}
